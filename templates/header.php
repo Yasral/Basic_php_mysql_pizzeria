@@ -9,6 +9,7 @@
     <nav>
         <div class="wrapper">
             <h2 class="logo">La Pizzeria</h2>
-            <button class="ajout">ADD A PIZZA</button>
+            <!-- <button class="ajout">ADD A PIZZA</button> -->
+            <a href="./form.php" class="ajout">ADD A PIZZA</a>
         </div>
     </nav>
